@@ -1,2 +1,5 @@
 /target
 example-strong.hodl
+wallet.stronghold
+/walletdb
+.env
